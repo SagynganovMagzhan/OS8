@@ -1,1 +1,2 @@
 This is the first and unchanged text
+Added changes by developer abay file.txt
